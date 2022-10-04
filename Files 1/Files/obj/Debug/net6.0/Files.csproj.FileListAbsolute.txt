@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Files/Files/bin/Debug/net6.0/Files
+/Users/sopwithcamel/Projects/Files/Files/bin/Debug/net6.0/Files.deps.json
+/Users/sopwithcamel/Projects/Files/Files/bin/Debug/net6.0/Files.runtimeconfig.json
+/Users/sopwithcamel/Projects/Files/Files/bin/Debug/net6.0/Files.dll
+/Users/sopwithcamel/Projects/Files/Files/bin/Debug/net6.0/Files.pdb
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.dll
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/refint/Files.dll
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.pdb
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/Files.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Files/Files/obj/Debug/net6.0/ref/Files.dll
